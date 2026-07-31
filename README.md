@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Александр 👋
 
-<!--
-**AlexanderFrl/AlexanderFrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA-инженер, расту в автоматизацию тестирования на Python. Учусь быстро, довожу дело до конца, пишу тесты так, чтобы их можно было читать как документацию.
 
-Here are some ideas to get you started:
+## 🧰 Что умею
+- **Python**: функции, ООП, работа со строками и структурами данных
+- **Автотесты**: `pytest`, `parametrize`, техники тест-дизайна (классы эквивалентности, граничные значения)
+- **Ручное тестирование**: тест-кейсы, чек-листы, баг-репорты
+- **Инструменты**: Git, Linux (базово), Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Что осваиваю сейчас
+- Telegram-боты (aiogram / python-telegram-bot)
+- n8n и интеграции по API
+- Whisper / LLM в QA-задачах
+
+## 📂 Проекты
+- [`qa-portfolio`](https://github.com/AlexanderFrl/qa-portfolio) — тест-кейсы, баг-репорты, Postman-коллекции
+- `compress-numbers` — функция + автотесты на pytest *(зальём следующим шагом)*
+
+## 📬 Связь
+- Telegram: @Veselbie_bylku
+- Email: Veselbie813@yandex.ru
+
+Открыт к фрилансу и первым проектам. Пишите — отвечаю быстро.
+Так же ищу работу по профилю.
