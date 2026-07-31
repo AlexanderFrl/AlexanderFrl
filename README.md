@@ -14,8 +14,7 @@ QA-инженер, расту в автоматизацию тестирован
 - Whisper / LLM в QA-задачах
 
 ## 📂 Проекты
-- [`qa-portfolio`](https://github.com/AlexanderFrl/qa-portfolio) — тест-кейсы, баг-репорты, Postman-коллекции
-- `compress-numbers` — функция + автотесты на pytest *(зальём следующим шагом)*
+- [`qa-portfolio`](https://github.com/AlexanderFrl/qa-portfolio)
 
 ## 📬 Связь
 - Telegram: @Veselbie_bylku
