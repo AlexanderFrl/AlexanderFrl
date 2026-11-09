@@ -52,3 +52,8 @@ python3 -m venv family && source family/bin/activate
 pip install -r requirements.txt
 python server.py
 # Swagger UI: http://localhost:8000/docs
+
+ Связь
+Telegram: @Veselbie_bylku
+Email: Veselbie813@yandex.ru
+Открыт к фрилансу и первым проектам. Пишите — отвечаю быстро. Также ищу работу по профилю.
